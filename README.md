@@ -1,7 +1,5 @@
 # 推箱子 / Push the boxes
 
------
-
 RUN!为主文件（bushi）
 
 按P终止游戏。。
