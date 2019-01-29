@@ -1,7 +1,7 @@
 # PushTheBoxex
 推箱子 / Push the boxex
 
-$$$$
+-----
 
 地图编辑说明：
 
